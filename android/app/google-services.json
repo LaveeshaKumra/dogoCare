@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55485503349",
+    "firebase_url": "https://dogocare-1471a.firebaseio.com",
+    "project_id": "dogocare-1471a",
+    "storage_bucket": "dogocare-1471a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55485503349:android:ab5a7a0c435f450eb7a53c",
+        "android_client_info": {
+          "package_name": "com.dev.dogocare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55485503349-omlnd9b0dr79un1homkq5fdqh1qtns9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhSuDoUhe_InVo5od94_grwlT6HPGwGtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55485503349-omlnd9b0dr79un1homkq5fdqh1qtns9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
